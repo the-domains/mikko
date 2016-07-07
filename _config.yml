@@ -1,0 +1,28 @@
+name: mikko
+favicon: null
+layout_spectrum: 0.02863651653751731
+typography_spectrum: 0.3853963695000857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6118534044362605
+  lightness: 0.7060609387699515
+  saturation: 0.33434782130643725
+  rhythmicContrast: 0.2601941206958145
+purpose: []
